@@ -1,0 +1,12 @@
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\bin\Debug\Board.exe
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\bin\Debug\Board.pdb
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\UIT-ChineseChess.csprojAssemblyReference.cache
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.FlashScreen.resources
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.ChessBoard.resources
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.NewGame.resources
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Open.resources
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Properties.Resources.resources
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.Sound_Options.resources
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\UIT-ChineseChess.csproj.GenerateResource.cache
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.exe
+D:\Spam\Source CoTuong\UIT-ChineseChess\Source\Board\obj\Debug\Board.pdb
